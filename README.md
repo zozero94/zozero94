@@ -1,9 +1,6 @@
-![image](https://user-images.githubusercontent.com/31091115/118389482-209c5300-b665-11eb-9c88-b9b4244f0d05.png)
+![image](https://user-images.githubusercontent.com/31091115/118389482-209c5300-b665-11eb-9c88-b9b4244f0d05.png) 
 
-# Android Developer
-
-- 2014/03 ~ 2020/08 : 세종대학교 컴퓨터공학과
-- 2020/02/25 ~ ing : kakao enterprise
+<img src ="https://user-images.githubusercontent.com/31091115/119218978-e972e980-bb1d-11eb-9186-078b0e3e3cfb.png" width ="300">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zozero94&show_icons=true&theme=dracula)
